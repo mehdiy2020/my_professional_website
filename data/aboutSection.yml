@@ -1,0 +1,26 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## Who is Mehdi Yazdanian?
+
+  Mehdi Yazdanian is a professional engineer experienced in energy and education sectors.
+content: >
+  ### I look for any un-solved porblems or examine new prospective of solved ones to
+
+  design and present applications. These applications should predict, evaluate and eventually render
+  
+  value for end-users. My passions are learning and training. 
+  
+  My family are the most important thing in the world.  Traveling, watching classical or international movies, reading social and political articles/books and 
+  
+  workout are items that I do my best to accomodate them in my life
+  
+  
+
+button1Name: LinkedIn
+button2Name: Download CV
+button1Target: https://www.linkedin.com/in/mehdiyazdanian/
+button2Target: "/cv/data_science_resume.pdf"
+image: images/hero/my-pic-2.jpg
+imageMaskPosition: 70px 0px

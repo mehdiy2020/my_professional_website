@@ -1,0 +1,72 @@
+---
+enable: true
+topTitle: My Resume
+title: >
+  ## My Experience & Education
+
+  Over 15+ years of experience as a Professional Engineer I am all-in the Data Science / Analysis .
+
+buttonName: "Download Resume PDF"
+buttonTarget: "/cv/data_science_resume.pdf"
+
+tab1Name: Experience
+tab2Name: Education
+tab1Target: experience
+tab2Target: education
+
+
+experience:
+  - content: >
+  
+      ### Data Science | Analysis
+      
+      - Concern about "Global Worming & Polution", collecting, cleaning and visualizing data and applying Machine LEarning Algorithm to Predict the future gas emission/
+      
+      
+      - Using tsv data from IMDB Non-comercial website and applying various regression and algorithm to rate the movies based on some major crew of each movie (See [IMDB](https://developer.imdb.com/non-commercial-datasets/))
+    time: 2022-Present
+  - content: >
+      ### College Part-time Instructor
+      
+      #### Conestoga College
+
+      - Teaching Microsoft applications to 1000+ students
+    time: 2019-Present
+  - content: >
+      ### Mechanical/Piping Engineer | Pipe Stress Analyst
+
+      #### SNC Lavalin | Worley Parson
+
+      - Designed and analyzed pipe stress for Various Mining and Oil & Gas Projects 
+      
+      - Applied codes and standards along wiht CAESAR II and collaborated with various stakeholder.
+      
+    
+    time: 2012-2016
+  
+
+
+education:
+  - content: >
+      #### Master of Business Administration (MBA)
+
+      Schulic School of Business
+      
+    time: 2018
+  - content: >
+      #### Master of Material Engineering
+
+      University of Windsor
+    
+    time: 2006
+  - content: >
+      #### Master of Science (Physics)
+
+      Brock University
+    time: 2004
+  - content: >
+      #### Bachelor of Apploied Science (Mechanical Engineering)
+
+      Univesity of Mazandaran
+    time: 1998
+  

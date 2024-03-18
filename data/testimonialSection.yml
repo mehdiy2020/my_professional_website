@@ -1,0 +1,22 @@
+---
+enable: true
+topTitle: Testimonials
+title: >
+  ## What Do Other Data Scientists/Analysts Think of My Courses?
+
+testimonial:
+  - name: Matt Dancho
+    title: Founder, CEO
+    image: "/images/testimonial/matt.jpg"
+    comment: ""
+    star: 5
+  - name: YTB
+    title: YTBD
+    image: "/images/testimonial/chris.jpg"
+    comment: ""
+    star: 5
+  - name: YTB
+    title: YTBD
+    image: "/images/testimonial/mohana.jpg"
+    comment: ""
+    star: 5

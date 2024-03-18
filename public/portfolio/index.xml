@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on Mehdi Yazdanian&#39;s Data Science Portfolio</title>
+    <link>//localhost:4314/portfolio/</link>
+    <description>Recent content in Portfolios on Mehdi Yazdanian&#39;s Data Science Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Mar 2024 12:49:27 +0600</lastBuildDate>
+    <atom:link href="//localhost:4314/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Select Your Crew - Witness The Movie Rating</title>
+      <link>//localhost:4314/portfolio/project-02/</link>
+      <pubDate>Sun, 03 Mar 2024 12:49:27 +0600</pubDate>
+      <guid>//localhost:4314/portfolio/project-02/</guid>
+      <description>View Dashboard Project Requirements ✅ Shiny Web Applications&#xA;✅ HTML and CSS&#xA;✅ Rate Movie Based on Major Crew Selection using Machine Learning (GLMNET, RANDOM FOREST, XGBoost)</description>
+    </item>
+    <item>
+      <title>Greenhouse Gas Emission Forecast Application</title>
+      <link>//localhost:4314/portfolio/project-01/</link>
+      <pubDate>Sun, 25 Sep 2022 12:49:27 +0600</pubDate>
+      <guid>//localhost:4314/portfolio/project-01/</guid>
+      <description>View Demo Dashboard Project Requirements ✅ Shiny Web Applications&#xA;✅ HTML and CSS&#xA;✅ Greenhouse Gas Emission Forecast using Machine Learning (ARIMA | Prophet)&#xA;✅ Geographic Visualization within the app</description>
+    </item>
+  </channel>
+</rss>

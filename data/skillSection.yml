@@ -1,0 +1,17 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Here's where I can help
+
+  I have a great background in Statistics, good skill in SQL, and solid knowledge in  machine learning and business problem-solving. 
+
+image: images/hero/my-pic-2.jpg
+
+skill:
+  - title: R (Tidyverse)
+    percent: 70
+  - title: Shiny/Dash Apps
+    percent: 80
+  - title: HTML & CSS
+    percent: 70

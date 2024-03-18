@@ -1,0 +1,15 @@
+---
+enable: true
+topTitle: Data Scientist
+content: >
+  ## Hi My Name is Mehdi
+
+    Passionate about the never-ending world of "Data Science",
+    I am [here](https://www.linkedin.com/in/mehdiyazdanian/) 
+    to join you to find the right question to the right answer. 
+buttonName: Contact Mehdi Yazdanian
+buttonIcon: 'fa fa-envelope'
+buttonURL: "#contact"
+image: images/hero/my-pic-2.jpg
+videoThumb: images/hero/data-science.gif
+videoURL: https://www.youtube.com/watch?v=rJawNrD3xlU
