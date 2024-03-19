@@ -17,7 +17,7 @@ $background-color: #909090 !important;
 // Fonts
 
 
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900|Yeseva+One&display=swap");
+/*@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800,900|Yeseva+One&display=swap");*/
 @import url('https://fonts.googleapis.com/css2?family=Duru+Sans&family=Goldman:wght@400;700&family=Montserrat+Subrayada:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cuprum:ital,wght@0,400..700;1,400..700&family=Duru+Sans&family=Goldman:wght@400;700&family=Montserrat+Subrayada:wght@400;700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 $font-family-base: "Roboto", sans-serif;
@@ -26,11 +26,11 @@ $headings-font-family: "Montserrat", cursive;
 // Size
 $font-size-base: 1.125rem; // 18px
 $h1-font-size: 60px;
-$h2-font-size: 50px;
+$h2-font-size: 60px;
 $h3-font-size: 30px;
 $h4-font-size: 25px;
 $h5-font-size: 22px;
-$h6-font-size: 16px;
+$h6-font-size: 18px;
 
 // Spacing
 $headings-margin-bottom: 1.5rem;

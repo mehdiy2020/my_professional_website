@@ -1,10 +1,17 @@
 ---
 enable: true
-topTitle: My Skills
+topTitle: Skills 
 content: >
   ## Here's where I can help
 
-  I have a great background in Statistics, good skill in SQL, and solid knowledge in  machine learning and business problem-solving. 
+  I have a great background in Statistics, solid knowledge in  machine learning and business problem-solving.
+  The Progress will be updated monthly as I am working on:
+  
+    Make "The Classical Movie Area" up to scale using Advanced Shiny & AWS,
+  
+    Progress on "An Introduction to Statistical Learning with Application in R (BOOK - Second Edition)",
+  
+    Upgrade my Webdesign Skill learning more about SASS
 
 image: images/hero/my-pic-2.jpg
 
@@ -12,6 +19,7 @@ skill:
   - title: R (Tidyverse)
     percent: 70
   - title: Shiny/Dash Apps
-    percent: 80
+    percent: 50
   - title: HTML & CSS
-    percent: 70
+    percent: 50
+

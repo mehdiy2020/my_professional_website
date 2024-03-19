@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Mehdi Yazdanian&#39;s Data Science Portfolio</title>
-    <link>//localhost:4314/categories/</link>
+    <link>//localhost:4321/categories/</link>
     <description>Recent content in Categories on Mehdi Yazdanian&#39;s Data Science Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 03 Mar 2024 12:49:27 +0600</lastBuildDate>
-    <atom:link href="//localhost:4314/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Web Apps, Machine Learning</title>
-      <link>//localhost:4314/categories/web-apps-machine-learning/</link>
+      <link>//localhost:4321/categories/web-apps-machine-learning/</link>
       <pubDate>Sun, 03 Mar 2024 12:49:27 +0600</pubDate>
-      <guid>//localhost:4314/categories/web-apps-machine-learning/</guid>
+      <guid>//localhost:4321/categories/web-apps-machine-learning/</guid>
       <description></description>
     </item>
     <item>
       <title>Web Apps, Time Series</title>
-      <link>//localhost:4314/categories/web-apps-time-series/</link>
+      <link>//localhost:4321/categories/web-apps-time-series/</link>
       <pubDate>Sun, 25 Sep 2022 12:49:27 +0600</pubDate>
-      <guid>//localhost:4314/categories/web-apps-time-series/</guid>
+      <guid>//localhost:4321/categories/web-apps-time-series/</guid>
       <description></description>
     </item>
   </channel>
