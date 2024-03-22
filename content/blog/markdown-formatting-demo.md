@@ -1,6 +1,6 @@
 ---
 date: "2024-03-22"
-featureImage: images/allpost/allPost-6.jpg
+featureImage: images/allpost/alhamra.jpg
 postImage: images/single-blog/feature-image.jpg
 title: Decoding My Data Science Journey
 ---
