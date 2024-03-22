@@ -1,8 +1,8 @@
 ---
-date: "2024-03-22T12:49:27+06:00"
+date: "2024-03-22"
 featureImage: images/allpost/allPost-6.jpg
 postImage: images/single-blog/feature-image.jpg
-title: Markdown Formatting Demo
+title: Decoding My Data Science Journey
 ---
 
 This example Markdown file compliments of [markdown-it.github.io](https://markdown-it.github.io/)
