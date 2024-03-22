@@ -22,7 +22,7 @@ menu:
       weight: 6
   sitemap:
     - name: Home
-      url: '#bolg'
+      url: /
       weight: 1
     - name: Blog
       url: blog
