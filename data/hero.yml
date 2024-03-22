@@ -1,6 +1,6 @@
 ---
 enable: true
-topTitle: Data Scientist
+topTitle: Data Scientist | Instructor
 content: >
   ## Hi My Name is Mehdi
 
@@ -12,4 +12,4 @@ buttonIcon: 'fa fa-envelope'
 buttonURL: "#contact"
 image: images/hero/my-pic-2.jpg
 videoThumb: images/hero/data-science.gif
-videoURL: https://www.youtube.com/watch?v=rJawNrD3xlU
+videoURL: 
