@@ -18,11 +18,11 @@ menu:
       url: '#resume'
       weight: 5
     - name: Blog
-      url: '#blog'
+      url: #blog
       weight: 6
   sitemap:
     - name: Home
-      url: /
+      url: ../content/blog/_index.md
       weight: 1
     - name: Blog
       url: blog
